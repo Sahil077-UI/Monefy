@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 💰 Monefy
 
 A clean, dark-mode personal finance tracker built with Flutter. Track expenses and income, organize spending into groups, set budgets, and visualize your money — all offline, all private.
